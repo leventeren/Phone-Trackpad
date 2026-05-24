@@ -1,5 +1,7 @@
 # 📱 Phone Trackpad
 
+![Trackpad](https://raw.githubusercontent.com/leventeren/Phone-Trackpad/main/screenshots/Phone-Trackpad.gif)
+
 **[🇹🇷 Türkçe](#-türkçe) | [🇬🇧 English](#-english)**
 
 ---
